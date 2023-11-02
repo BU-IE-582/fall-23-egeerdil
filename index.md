@@ -1,32 +1,12 @@
 ## Welcome to My GitHub Page 
-
+![Alt text](https://scontent.fesb7-1.fna.fbcdn.net/v/t1.18169-9/180214_10150917846104261_546544325_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=4dc865&_nc_ohc=EBftt8tGSL8AX9FpGB-&_nc_ht=scontent.fesb7-1.fna&oh=00_AfBcM1HyPW75bdw8VQ1Vrbe-1l5raDd6SFDxL8C98ONkuw&oe=656B5C79)
 ## How to add Links of files to Your Github Repository:
 
-Check [my repository](https://github.com/BU-IE-582/fall-23-egeerdil) to see the folder names and the uploaded files. Click index.md file, "[Raw](https://raw.githubusercontent.com/BU-IE-582/fall-23-egeerdil/main/index.md)" button will lead you to the script for this page. 
+Check [my repository](https://github.com/BU-IE-582/fall-23-egeerdil) to see the folder names and the uploaded files. 
 
-Please check the links by clicking on them. 
-
-### Correct linking of .html and .pdf files:
-
-
-* [Correct Example 1](https://bu-ie-582.github.io/fall-23-ilaydacelenkk/IE582_Fall23_Syllabus.pdf): The .pdf file is in the same location with your index file.
-* [Correct Example 2](https://bu-ie-582.github.io/fall-23-ilaydacelenkk/files/How%20to%20export%20your%20work%20as%20an%20HTML%20file.pdf): The .html file is in a folder called files and this folder is in the same location with your index file.
-
-* [Correct Example 3](IE582_Fall23_Syllabus.pdf): You can use the path and the file name only.
-
-* [Correct Example 4](files/How%20to%20export%20your%20work%20as%20an%20HTML%20file.pdf): You can use the path and the file name only.
-
-* [Wrong Example](https://github.com/BU-IE-582/fall-23-ilaydacelenkk/blob/main/IE582_Fall23_Syllabus.pdf): Do not provide links with "blob" or "main". Be careful with this issue while linking your Homework Assignments.
-
-
-### Example scripts and .html files
-* [R Markdown Example HTML in Rstudio](files/R_Markdown_Example_in_RStudio.html): The .pdf file is in a folder called files.
-* [Python Example HTML in Rstudio](files/python_example_in_Jupyter_Notebook.html): The .pdf file is in a folder called files.
-* [R Markdown Example Script](https://github.com/BU-IE-582/fall-23-ilaydacelenkk/blob/main/files/R_Markdown_Example_in_RStudio.Rmd): .Rmd script is in a folder called files.
-* [Python Example Script](https://github.com/BU-IE-582/fall-23-ilaydacelenkk/blob/main/files/python_example_in_Jupyter_Notebook.ipynb): .ipynb script is in a folder called files.
-
-You don't need to link your source codes unless asked. Your code should be visible in your .html files already. 
+ [Homework1 html]"([https://raw.githubusercontent.com/BU-IE-582/fall-23-egeerdil/main/index.md](https://github.com/BU-IE-582/fall-23-egeerdil/blob/main/files/Homework_1.html))"
+ [Homework1 html]"([https://raw.githubusercontent.com/BU-IE-582/fall-23-egeerdil/main/index.md](https://github.com/BU-IE-582/fall-23-egeerdil/blob/main/files/Homework_1.ipynb))"
 
 
 
-[link to my journal](https://bu-ie-582.github.io/fall-23-ilaydacelenkk/): This is the link you need to provide in the Google Forms.
+[link to my journal](https://bu-ie-582.github.io/fall-23-egeerdil/): This is the link you need to provide in the Google Forms.
