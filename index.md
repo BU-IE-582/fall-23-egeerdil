@@ -5,7 +5,7 @@
 Check [my repository](https://github.com/BU-IE-582/fall-23-egeerdil) to see the folder names and the uploaded files. 
 
  [Homework1 html](https://github.com/BU-IE-582/fall-23-egeerdil/blob/main/files/Homework_1.html)
- [Homework1 html](https://github.com/BU-IE-582/fall-23-egeerdil/blob/main/files/Homework_1.ipynb)
+ [Homework1 jupiter notebook](https://github.com/BU-IE-582/fall-23-egeerdil/blob/main/files/Homework_1.ipynb)
 
 
 
