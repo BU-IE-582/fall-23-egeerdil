@@ -7,6 +7,6 @@ Check [my repository](https://github.com/BU-IE-582/fall-23-egeerdil) to see the 
  [Homework1 html](https://github.com/BU-IE-582/fall-23-egeerdil/blob/main/files/Homework_1.html)
  [Homework1 jupiter notebook](https://github.com/BU-IE-582/fall-23-egeerdil/blob/main/files/Homework_1.ipynb)
 
-
+ [Homework1 html](files/Homework_1.html)
 
 [link to my journal](https://bu-ie-582.github.io/fall-23-egeerdil/): This is the link you need to provide in the Google Forms.
