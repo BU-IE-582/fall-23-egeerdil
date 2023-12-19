@@ -6,7 +6,7 @@ Check [my repository](https://github.com/BU-IE-582/fall-23-egeerdil) to see the 
 
 ## Homework2:
 [Homework2 Second Data html](files/Data-2.html)
-[Homework2 Third Data html](files/Data3(1).html)
+[Homework2 Third Data html](files/Data3.html)
 [Homework2 Forth Data html](files/Data4.html)
 [Homework2 Fifth Data html](files/Data5.html)
 
