@@ -5,11 +5,15 @@
 Check [my repository](https://github.com/BU-IE-582/fall-23-egeerdil) to see the folder names and the uploaded files. 
 
 ## Homework2:
+[Homework2 First Data html](files/Data-2.html)
 [Homework2 Second Data html](files/Data-2.html)
 [Homework2 Third Data html](files/Data3.html)
 [Homework2 Forth Data html](files/Data4.html)
 [Homework2 Fifth Data html](files/Data5.html)
+[Homework2 General html](files/General.html)
 
+
+## Homework1:
  [Homework1 html](https://github.com/BU-IE-582/fall-23-egeerdil/blob/main/files/Homework_1.html)
  [Homework1 jupiter notebook](https://github.com/BU-IE-582/fall-23-egeerdil/blob/main/files/Homework_1.ipynb)
 
