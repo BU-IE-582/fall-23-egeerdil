@@ -6,7 +6,7 @@ Check [my repository](https://github.com/BU-IE-582/fall-23-egeerdil) to see the 
 
 
 ## Project:
-[Project](files/project.pdf)
+[Project](files/Project.pdf)
 
 ## Homework2:
 [Homework2 First Data html](files/Data-2.html)
