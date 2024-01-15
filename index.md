@@ -4,6 +4,10 @@
 
 Check [my repository](https://github.com/BU-IE-582/fall-23-egeerdil) to see the folder names and the uploaded files. 
 
+
+## Project:
+[Homework2 First Data html](files/project.pdf)
+
 ## Homework2:
 [Homework2 First Data html](files/Data-2.html)
 [Homework2 Second Data html](files/Data-2.html)
