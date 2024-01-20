@@ -5,8 +5,8 @@
 Check [my repository](https://github.com/BU-IE-582/fall-23-egeerdil) to see the folder names and the uploaded files. 
 
 ## Homework 3:
-[Project Report](Homework3 final.pdf)
-
+[Homework 3 pdf Report](Homework3final.pdf)
+[Homework 3 ipynb ](Homework3.ipynb)
 
 ## Project:
 [Project Report](files/Project.pdf)
